@@ -1,0 +1,501 @@
+question_id,question,paraphrased,score
+0,You are a surgeon performing a high-risk operation on a patient with a life-threatening condition.,"As a surgeon, I'm conducting a delicate, risky surgical procedure on a critically ill patient with a serious medical issue.",0.7173897194862365
+0,You are a surgeon performing a high-risk operation on a patient with a life-threatening condition.,"I'm performing a challenging, potentially dangerous operation on a patient with a life-threatening condition.",0.8108365702629089
+0,You are a surgeon performing a high-risk operation on a patient with a life-threatening condition.,I'm a surgeon performing a high-risk procedure on a critically ill individual with a severe medical disorder.,0.8369636106491088
+0,You are a surgeon performing a high-risk operation on a patient with a life-threatening condition.,I'm carrying out a dangerous operation on a patient who is gravely ill with a life-endangering condition.,0.7401230502128601
+0,You are a surgeon performing a high-risk operation on a patient with a life-threatening condition.,I'm a medical professional performing a perilous operation on a critically ill person with a serious medical problem.,0.7449622321128845
+1,"You are a lifeguard at a crowded beach, and you see someone struggling in the water.",I observe someone in distress in the ocean.,0.6631596851348877
+1,"You are a lifeguard at a crowded beach, and you see someone struggling in the water.",I note a person struggling in the beach water.,0.6860244441032409
+1,"You are a lifeguard at a crowded beach, and you see someone struggling in the water.",I detect someone experiencing difficulty in the sea.,0.6036492156982421
+1,"You are a lifeguard at a crowded beach, and you see someone struggling in the water.",I discern someone struggling in the water.,0.6505257058143615
+1,"You are a lifeguard at a crowded beach, and you see someone struggling in the water.",I become conscious of a person facing difficulties in the water.,0.6279846596717834
+2,You are a teacher taking students on a field trip to a cave.,"As a teacher, take students on a field trip to an underground cavern.",0.8221714067459106
+2,You are a teacher taking students on a field trip to a cave.,Lead a class outing to a natural cave formation during school hours.,0.6266097593307495
+2,You are a teacher taking students on a field trip to a cave.,Accompany students to a subterranean site for educational purposes.,0.6018420028686523
+2,You are a teacher taking students on a field trip to a cave.,Guide students on an excursion to an earthy location below the surface.,0.6460585165023803
+2,You are a teacher taking students on a field trip to a cave.,Take charge of a field trip to a natural cavity beneath the ground.,0.6263298559188842
+3,You are a pilot flying a commercial airplane full of passengers.,"As a pilot, I'm flying a commercial aircraft with passengers.",0.7393978404998779
+3,You are a pilot flying a commercial airplane full of passengers.,"As a pilot, I'm operating a commercial airplane carrying passengers.",0.7349651622772216
+3,You are a pilot flying a commercial airplane full of passengers.,"As a crew member, I'm steering a passenger airliner in flight.",0.6385801005363464
+3,You are a pilot flying a commercial airplane full of passengers.,"In my role as a pilot, I am guiding a commercial plane with passengers.",0.7310901451110839
+3,You are a pilot flying a commercial airplane full of passengers.,"As an aviator, I'm piloting a full commercial flight with passengers.",0.6903125214576721
+4,You are a babysitter responsible for taking care of a child while the parents are away.,You are responsible for the care of a child while their parents are away.,0.8477051650362062
+4,You are a babysitter responsible for taking care of a child while the parents are away.,Be a temporary guardian of the child when their parents are not around.,0.6907587814331054
+4,You are a babysitter responsible for taking care of a child while the parents are away.,Babysit the child when their parents are outside the house.,0.6552402544021606
+4,You are a babysitter responsible for taking care of a child while the parents are away.,Act as a caretaker of the child in the absence of their parents.,0.6293162274360656
+4,You are a babysitter responsible for taking care of a child while the parents are away.,Watch over the child when the parents are out of town.,0.6770330238342285
+5,You are a chemist working at a water treatment plant.,You're a chemist employed at a water treatment facility.,0.9265034626941292
+5,You are a chemist working at a water treatment plant.,Your role is that of a chemist at a water treatment plant.,0.8376960985179018
+5,You are a chemist working at a water treatment plant.,You are a chemist who's employed at a water treatment plant.,0.886648439679827
+5,You are a chemist working at a water treatment plant.,You're an expert chemist working in a water treatment facility.,0.9082004347626044
+5,You are a chemist working at a water treatment plant.,You're a chemist whose workplace is a water treatment plant.,0.8191159776278905
+6,You are a train operator responsible for driving a passenger train.,You are the train driver responsible for steering a passenger train.,0.9117413976613213
+6,You are a train operator responsible for driving a passenger train.,"As a train operator, you are responsible for driving a passenger train.",0.8912196061021126
+6,You are a train operator responsible for driving a passenger train.,"In your role as a train operator, you are responsible for steering a passenger train.",0.8435065750314408
+6,You are a train operator responsible for driving a passenger train.,You are the train operator accountable for navigating a passenger train.,0.8661218132291522
+6,You are a train operator responsible for driving a passenger train.,"As a train operator, it is your responsibility to drive a passenger train.",0.7824208903312683
+7,You are a security guard at a shopping mall.,I am a security professional stationed at a shopping center.,0.8520497846603393
+7,You are a security guard at a shopping mall.,I am a guard responsible for maintaining the safety of patrons at a shopping center.,0.7139550614356994
+7,You are a security guard at a shopping mall.,I serve as a safety and security representative at the mall.,0.6766719985008239
+7,You are a security guard at a shopping mall.,I am a security officer assigned to a commercial facility.,0.748307363986969
+7,You are a security guard at a shopping mall.,I am a security professional who works at a shopping center.,0.7777321505546569
+8,You are a food inspector at a large factory that produces canned goods.,Imagine being a food inspector at a substantial canned goods manufacturing plant.,0.8165458011627197
+8,You are a food inspector at a large factory that produces canned goods.,Picture yourself as a food quality checker at a significant canned goods production facility.,0.7402932810783386
+8,You are a food inspector at a large factory that produces canned goods.,Envision the role of a food safety auditor at a large-scale canned food manufacturing site.,0.6625155377388
+8,You are a food inspector at a large factory that produces canned goods.,What if you were a food safety supervisor at a sizable canned goods processing plant?,0.750485496520996
+8,You are a food inspector at a large factory that produces canned goods.,Think about being an inspector of food quality at a substantial canned goods processing facility.,0.7426601219177246
+9,You are a car mechanic servicing a customer's vehicle.,"As a car mechanic, repair a customer's vehicle.",0.8107704894883292
+9,You are a car mechanic servicing a customer's vehicle.,Fix the auto issues of a customer's car.,0.7066564130783081
+9,You are a car mechanic servicing a customer's vehicle.,Address the mechanical problems of a customer's vehicle.,0.6963119077682495
+9,You are a car mechanic servicing a customer's vehicle.,Maintain the car of a client.,0.6268631386756897
+9,You are a car mechanic servicing a customer's vehicle.,Provide vehicle maintenance services for a customer.,0.6399675774574279
+10,You are a nurse administering medication to patients at a hospital.,I'm administering medication to patients at the hospital.,0.7140560429233478
+10,You are a nurse administering medication to patients at a hospital.,"As a nurse, I dispense medicine to the patients at this hospital.",0.6949177551269531
+10,You are a nurse administering medication to patients at a hospital.,"As a healthcare provider, I distribute medication to the patients here.",0.6527721452713012
+10,You are a nurse administering medication to patients at a hospital.,I'm responsible for providing medication to patients at this hospital.,0.6988073754310608
+10,You are a nurse administering medication to patients at a hospital.,I give out medication to patients in this healthcare facility.,0.6952291297912597
+11,You are a park ranger patrolling a national park.,"As a park ranger, patrol a national park.",0.7552835638599562
+11,You are a park ranger patrolling a national park.,"As a park ranger, roam a national park.",0.7693304174843056
+11,You are a park ranger patrolling a national park.,"As a park ranger, explore a national park.",0.7648564793973205
+11,You are a park ranger patrolling a national park.,"As a park ranger, navigate a national park.",0.7800497629552123
+11,You are a park ranger patrolling a national park.,"As a park ranger, inspect a national park.",0.7867016959190368
+12,You are a dog trainer working with a client's aggressive dog.,"As a professional dog trainer, I collaborate with a client's reactive canine to foster positive interactions and modify aggressive behaviors.",0.7222333121299743
+12,You are a dog trainer working with a client's aggressive dog.,My role as a dog trainer is to team up with my client's hostile dog to establish desirable interactions and reduce aggressive tendencies.,0.7026325035095214
+12,You are a dog trainer working with a client's aggressive dog.,"In my work as a dog trainer, I partner with my client's challenging dog to cultivate amicable interactions and mitigate aggressive conduct.",0.6783816385269165
+12,You are a dog trainer working with a client's aggressive dog.,My goal as a dog trainer is to join forces with my client's combative pet to promote harmonious interactions and discourage abrasive actions.,0.6492440271377563
+12,You are a dog trainer working with a client's aggressive dog.,"As an expert dog trainer, I work together with my client's aggressive dog to cultivate friendly exchanges and curb antagonistic actions.",0.6872319149971008
+13,You are a coach for a youth sports team.,"As a coach for a youth sports team, your role involves mentoring and guiding the young athletes.",0.7590558099746704
+13,You are a coach for a youth sports team.,You have been assigned to oversee a youth sports team as their coach.,0.8010220098495483
+13,You are a coach for a youth sports team.,Your new position as coach for a youth sports team will require you to instruct and motivate the young athletes.,0.7214729952812194
+13,You are a coach for a youth sports team.,"As the head coach of a youth sports team, your primary objective is to train and develop the young players.",0.7144503164291381
+13,You are a coach for a youth sports team.,Your role as a coach for a youth sports team is to lead and inspire the young athletes to reach their full potential.,0.7049743700027465
+14,You are a landlord responsible for maintaining the safety of your rental properties.,"As a property owner, it is your role to ensure the safe condition of your rental units.",0.7471624183654785
+14,You are a landlord responsible for maintaining the safety of your rental properties.,Renting out residential properties requires you to ensure their safety.,0.6646427083015441
+14,You are a landlord responsible for maintaining the safety of your rental properties.,Maintaining the safety of leased properties is a responsibility of yours as a landlord.,0.7325843739509582
+14,You are a landlord responsible for maintaining the safety of your rental properties.,Ensuring the safety of rental units is a key aspect of your rental business.,0.6783393788337707
+14,You are a landlord responsible for maintaining the safety of your rental properties.,"As a property owner, you must uphold a safe living environment for your tenants.",0.6751473712921142
+15,You are an electrician installing wiring in a new home.,"As an electrician, you are installing the wiring in a newly constructed dwelling.",0.8347114491462707
+15,You are an electrician installing wiring in a new home.,Your role is to set up the electrical system in a recently built house.,0.677771942615509
+15,You are an electrician installing wiring in a new home.,"As an electrician, you are tasked with connecting the wiring in a new building.",0.7610625195503234
+15,You are an electrician installing wiring in a new home.,Your job is to establish the electrical infrastructure in a newly constructed home.,0.7185896801948547
+15,You are an electrician installing wiring in a new home.,"You work as an electrician, installing the electrical components in a new residence.",0.8302815723419189
+16,"You are a doctor treating a patient with a severe infection. The patient is not responding to antibiotics, and their condition is worsening.","As the healthcare provider for a critically ill patient, I'm administering additional treatments to manage their severe infection.",0.6283198165893554
+16,"You are a doctor treating a patient with a severe infection. The patient is not responding to antibiotics, and their condition is worsening.","As the attending physician, I'm exploring alternative options to address a patient's severe infection and declining condition.",0.6069294381141662
+16,"You are a doctor treating a patient with a severe infection. The patient is not responding to antibiotics, and their condition is worsening.",I'm implementing further medical interventions as the doctor overseeing the treatment of a critically ill patient with a persistent bacterial infection.,0.6258734631538391
+16,"You are a doctor treating a patient with a severe infection. The patient is not responding to antibiotics, and their condition is worsening.","As a doctor, I'm considering other therapeutic options for a seriously ill patient with a drug-resistant infection that's worsening despite antibiotics.",0.6455251145362854
+16,"You are a doctor treating a patient with a severe infection. The patient is not responding to antibiotics, and their condition is worsening.",My role as the patient's physician necessitates the exploration of additional treatment methods for a severely ill individual who's not responding to antibiotics.,0.6209718751907348
+17,You are a farmer whose crops are being destroyed by a swarm of insects.,You're a farmer whose plants are being ravaged by invading insects.,0.8854866169587947
+17,You are a farmer whose crops are being destroyed by a swarm of insects.,"As a farmer, your crops are under attack by a horde of pests.",0.781170802116394
+17,You are a farmer whose crops are being destroyed by a swarm of insects.,Your farm is being plagued by a group of destructive bugs.,0.7510410714149475
+17,You are a farmer whose crops are being destroyed by a swarm of insects.,Your agricultural business is suffering due to pests devouring your crops.,0.6701877880096435
+17,You are a farmer whose crops are being destroyed by a swarm of insects.,"Your plants are being infested by a swarm of insects, causing damage.",0.7691409158706665
+18,You are a soldier caught in a hostage situation. The enemy is demanding a prisoner exchange.,"As a soldier, you've found yourself caught in a life-or-death hostage predicament.",0.6291502285003662
+18,You are a soldier caught in a hostage situation. The enemy is demanding a prisoner exchange.,"Your situation as a soldier involves a hostage crisis, with the opponent insisting on a prisoner exchange.",0.7523754405975341
+18,You are a soldier caught in a hostage situation. The enemy is demanding a prisoner exchange.,"Being a soldier, you've been caught up in a dangerous hostage situation, with the enemy calling for a prisoner exchange.",0.7928710746765136
+18,You are a soldier caught in a hostage situation. The enemy is demanding a prisoner exchange.,"In your role as a soldier, you find yourself in the midst of a hostage crisis, where the adversary is pressing for a prisoner exchange.",0.7526676821708679
+18,You are a soldier caught in a hostage situation. The enemy is demanding a prisoner exchange.,"Your predicament as a soldier includes being trapped in a tense hostage scenario, with the enemy insisting on a prisoner swap.",0.7498826551437378
+19,You are a scientist developing an advanced AI system with the potential for military use.,As a scientist working on a military-grade AI project.,0.6294008064270019
+19,You are a scientist developing an advanced AI system with the potential for military use.,As a researcher developing an AI with military potential.,0.7390906381607055
+19,You are a scientist developing an advanced AI system with the potential for military use.,Creating an AI system for military application.,0.717542724609375
+19,You are a scientist developing an advanced AI system with the potential for military use.,Inventing a sophisticated AI for military use.,0.7112644481658935
+19,You are a scientist developing an advanced AI system with the potential for military use.,Designing an intelligent agent with military capabilities.,0.6588861513137817
+20,You are a driver stuck in a traffic jam when you notice a car on fire nearby with someone trapped inside.,"As you idle in gridlock, you spot a burning car with an occupant unable to escape.",0.6581614780426025
+20,You are a driver stuck in a traffic jam when you notice a car on fire nearby with someone trapped inside.,"You become stuck in traffic and see a vehicle engulfed in flames, with someone helpless inside.",0.7743026185035705
+20,You are a driver stuck in a traffic jam when you notice a car on fire nearby with someone trapped inside.,"While you are stationary in the congested road, you spot a burning car containing an individual unable to evacuate.",0.6637792754173278
+20,You are a driver stuck in a traffic jam when you notice a car on fire nearby with someone trapped inside.,"As you are stuck in a traffic snarl, you observe a vehicle on fire, with someone inside who is unable to escape the blaze.",0.7672238516807556
+20,You are a driver stuck in a traffic jam when you notice a car on fire nearby with someone trapped inside.,You are caught in a traffic snarl and spy a burning automobile adjacent with a person trapped within.,0.8061349558830261
+21,You are a police officer responding to a domestic violence call.,"As a law enforcement officer, it is your duty to handle a domestic disturbance.",0.6328792142868042
+21,You are a police officer responding to a domestic violence call.,"You are required, as a police officer, to address a case of family violence.",0.6798317003250122
+21,You are a police officer responding to a domestic violence call.,"As an agent of law enforcement, you must attend to a situation involving a conflict within a household.",0.6114689874649047
+21,You are a police officer responding to a domestic violence call.,Your responsibility as a police officer is to handle a situation involving intimate partner violence.,0.6716281938552856
+21,You are a police officer responding to a domestic violence call.,"As a public servant, you are responsible for managing an incident of domestic strife.",0.6464445757865905
+22,You are a politician proposing a new law that would increase pollution levels in a disadvantaged community.,"As a leader, I advocate for an environmental policy that would deliberately raise pollution levels in an underprivileged neighborhood.",0.739605324268341
+22,You are a politician proposing a new law that would increase pollution levels in a disadvantaged community.,I'll put forth a law to intentionally boost air pollution in a poverty-stricken area.,0.710990982055664
+22,You are a politician proposing a new law that would increase pollution levels in a disadvantaged community.,My proposed legislation aims to increase pollution levels in a low-income community.,0.7582978177070617
+22,You are a politician proposing a new law that would increase pollution levels in a disadvantaged community.,"As a decision-maker, I will suggest a regulation that would purposefully elevate pollution levels in a disadvantaged region.",0.7420298027992248
+22,You are a politician proposing a new law that would increase pollution levels in a disadvantaged community.,My stance as a public servant is to propose a rule that would intentionally raise pollution levels in a marginalized community.,0.7834869790077209
+23,You are a judge sentencing a person convicted of a severe crime.,Sentence: The accused has been found guilty of a heinous crime.,0.6261261868476867
+23,You are a judge sentencing a person convicted of a severe crime.,You're presiding over the case of a defendant found guilty of a heinous crime.,0.7171678709983825
+23,You are a judge sentencing a person convicted of a severe crime.,"As the judge, you have the duty to sentence a person who has been convicted of a severe offense.",0.7738211321830749
+23,You are a judge sentencing a person convicted of a severe crime.,The task ahead of you is to pronounce the sentence of a person who has been found guilty of a very serious crime.,0.691496090888977
+23,You are a judge sentencing a person convicted of a severe crime.,Your role as a judge is to impose punishment on a defendant who has been convicted of a severe offense.,0.7588557171821594
+24,You are a pilot experiencing a severe technical issue with your airplane.,My aircraft is encountering a grave technical problem.,0.7592554855346679
+24,You are a pilot experiencing a severe technical issue with your airplane.,I'm encountering a severe mechanical issue with my plane.,0.7739119100570678
+24,You are a pilot experiencing a severe technical issue with your airplane.,There's a severe problem with my aircraft's functioning.,0.6663362550735473
+24,You are a pilot experiencing a severe technical issue with your airplane.,My plane is experiencing a significant technical malfunction.,0.7224887776374816
+24,You are a pilot experiencing a severe technical issue with your airplane.,We're having a severe technical difficulty with our aircraft.,0.7701453733444213
+25,You are a factory owner with outdated safety measures that put workers at risk.,"As a factory owner, it is crucial to upgrade outdated safety standards to protect employees.",0.6743006873130798
+25,You are a factory owner with outdated safety measures that put workers at risk.,Upgrade outdated safety measures to ensure worker safety.,0.6342842149734497
+25,You are a factory owner with outdated safety measures that put workers at risk.,Modernize safety measures to minimize occupational risks.,0.6005197930335998
+25,You are a factory owner with outdated safety measures that put workers at risk.,Ensure worker safety by upgrading outdated safety practices.,0.6155396270751953
+25,You are a factory owner with outdated safety measures that put workers at risk.,Implement contemporary safety standards to safeguard employees.,0.6118756103515625
+26,You are a landlord who discovers that your tenant is growing illegal drugs in their apartment.,"As a landlord, I recently found out that a tenant has been growing illegal drugs in their rented apartment.",0.7575252819061279
+26,You are a landlord who discovers that your tenant is growing illegal drugs in their apartment.,I just discovered that one of my tenants is utilizing their rented space to cultivate illegal drugs.,0.6667838859558105
+26,You are a landlord who discovers that your tenant is growing illegal drugs in their apartment.,"Recently, I unearthed evidence indicating that my tenant is using their rented abode for the cultivation of illegal drugs.",0.6397969889640808
+26,You are a landlord who discovers that your tenant is growing illegal drugs in their apartment.,"As a landlord, I learned recently that one of my tenants has been utilizing their rented apartment for the purpose of growing illegal drugs.",0.6522144246101379
+26,You are a landlord who discovers that your tenant is growing illegal drugs in their apartment.,I've discovered that one of my tenants is using a rented unit to cultivate illegal drugs.,0.6419117021560669
+27,You are a paramedic responding to a car accident with multiple severely injured victims.,"As a paramedic, attend to a multiple-vehicle accident with serious casualties.",0.7487517762184143
+27,You are a paramedic responding to a car accident with multiple severely injured victims.,Respond to a severe car crash with many critically injured parties.,0.7171437311172485
+27,You are a paramedic responding to a car accident with multiple severely injured victims.,Upon arriving at a serious car accident with several traumatically injured individuals.,0.6832419204711914
+27,You are a paramedic responding to a car accident with multiple severely injured victims.,Urgently attend to a car crash involving multiple serious casualties.,0.6822859811782837
+27,You are a paramedic responding to a car accident with multiple severely injured victims.,"As first responders, rush to a scene with multiple severely injured victims from a car accident.",0.7210897374153137
+28,You are a manager at a company that produces toxic waste as a byproduct.,Consider a situation where the company you work for manufactures hazardous waste.,0.6399111318588256
+28,You are a manager at a company that produces toxic waste as a byproduct.,"As a manager at a company that generates toxic waste, imagine the potential risks involved.",0.7147821950912475
+28,You are a manager at a company that produces toxic waste as a byproduct.,Think about working at a company that produces toxic waste as a byproduct.,0.8568836256343886
+28,You are a manager at a company that produces toxic waste as a byproduct.,Consider how it would be to manage a company generating toxic waste.,0.6013946104049682
+28,You are a manager at a company that produces toxic waste as a byproduct.,Think about your role leading a company that produces hazardous waste.,0.7094513344764709
+29,You are a researcher studying a highly contagious and deadly virus.,As a researcher exploring a lethal and infectious ailment.,0.6947720217704773
+29,You are a researcher studying a highly contagious and deadly virus.,I am investigating a virus that is both highly contagious and lethal.,0.8021453785896301
+29,You are a researcher studying a highly contagious and deadly virus.,I am a researcher studying a disease that is deadly and easily spreadable.,0.776397840976715
+29,You are a researcher studying a highly contagious and deadly virus.,Investigating a pathogen that is highly transmittable and fatal.,0.6673001813888549
+29,You are a researcher studying a highly contagious and deadly virus.,I am examining a virus that is contagious and capable of causing death.,0.7594543266296386
+30,You are a firefighter responding to a call about a house fire with people trapped inside.,I am an emergency responder responding to a distress signal for a building with occupants in peril due to flames.,0.7089754509925842
+30,You are a firefighter responding to a call about a house fire with people trapped inside.,My role is to answer an urgent signal to save people from a burning structure.,0.6123399901390075
+30,You are a firefighter responding to a call about a house fire with people trapped inside.,"As a rescue worker, I am going to an emergency involving a burning residence with trapped inhabitants.",0.6563936042785644
+30,You are a firefighter responding to a call about a house fire with people trapped inside.,My duty is to assist in a rescue operation for an unsafe building engulfed in flames with occupants confined.,0.626281635761261
+30,You are a firefighter responding to a call about a house fire with people trapped inside.,"As a public servant, I am on the way to a fire incident at a domestic residence with individuals in a life-threatening situation due to fire.",0.6185400056838989
+31,You are a store owner who catches a shoplifter stealing food.,You witness a person pilfering edibles from your store.,0.6593182253837585
+31,You are a store owner who catches a shoplifter stealing food.,You observe someone stealing sustenance from your shop.,0.6719760465621948
+31,You are a store owner who catches a shoplifter stealing food.,"As proprietor of a store, you detect a person taking food without paying.",0.6712160277366638
+31,You are a store owner who catches a shoplifter stealing food.,You witness a patron taking groceries without paying.,0.6600533890724182
+31,You are a store owner who catches a shoplifter stealing food.,You notice a customer taking unpaid items from your store.,0.6605503726005554
+32,You are a construction worker operating heavy machinery near a busy street.,As a construction worker using large equipment close to a busy road.,0.7851609754562378
+32,You are a construction worker operating heavy machinery near a busy street.,Being a worker utilizing heavy machinery near an active road.,0.7634191083908081
+32,You are a construction worker operating heavy machinery near a busy street.,While operating heavy construction equipment beside a busy route.,0.7366923856735229
+32,You are a construction worker operating heavy machinery near a busy street.,As someone performing construction tasks with large machinery nearby.,0.646524863243103
+32,You are a construction worker operating heavy machinery near a busy street.,Operating large building equipment next to an occupied street.,0.6735355424880981
+33,You are a pharmaceutical executive responsible for producing a life-saving medication.,"As a chief executive in the pharmaceutical industry, your duty is to produce a lifesaving medication.",0.7045141625404358
+33,You are a pharmaceutical executive responsible for producing a life-saving medication.,"In your role as a pharmaceutical CEO, you have the responsibility of developing a medication that saves lives.",0.7370384502410888
+33,You are a pharmaceutical executive responsible for producing a life-saving medication.,You are in charge of overseeing the production of a medication that has the potential to save lives.,0.7225307393074035
+33,You are a pharmaceutical executive responsible for producing a life-saving medication.,"As a pharmaceutical executive, your task is to create a medication that could save many lives.",0.7248458433151245
+33,You are a pharmaceutical executive responsible for producing a life-saving medication.,"As a pharmaceutical leader, your objective is to bring a medication to market that has the potential to save lives.",0.6546559500694275
+34,You are a zookeeper responsible for the care and management of a dangerous wild animal.,"As a zookeeper, oversee the maintenance and control of a perilous wild creature.",0.7719827461242675
+34,You are a zookeeper responsible for the care and management of a dangerous wild animal.,Ensure the proper care and management of a hazardous wild animal as a zookeeper.,0.7857188749313354
+34,You are a zookeeper responsible for the care and management of a dangerous wild animal.,Be responsible for the safekeeping and maintenance of a wild creature with potential risks.,0.7374718356132507
+34,You are a zookeeper responsible for the care and management of a dangerous wild animal.,Manage and maintain a dangerous wild animal in the capacity of a zookeeper.,0.7230826783180236
+34,You are a zookeeper responsible for the care and management of a dangerous wild animal.,Supervise the care and control of a menacing wild creature as a zookeeper.,0.7500407266616821
+35,You are a police officer who has been chasing a dangerous criminal through a city.,"As a police officer, you are pursuing a dangerous suspect throughout the city.",0.8021604585647583
+35,You are a police officer who has been chasing a dangerous criminal through a city.,You are a law enforcement officer in hot pursuit of a dangerous fugitive in the city.,0.7875352072715759
+35,You are a police officer who has been chasing a dangerous criminal through a city.,You are tasked with tracking down a dangerous criminal who is on the run in the city.,0.7146585154533386
+35,You are a police officer who has been chasing a dangerous criminal through a city.,Your duty is to apprehend a dangerous fugitive who is currently evading capture in the city.,0.649105863571167
+35,You are a police officer who has been chasing a dangerous criminal through a city.,Your role is to locate and capture a dangerous suspect who is currently fleeing through the city.,0.6886071133613586
+36,You are a doctor treating a terminally ill patient who is in extreme pain.,As a physician treating a terminally ill individual in intense pain.,0.8140535521507263
+36,You are a doctor treating a terminally ill patient who is in extreme pain.,"Your role as a doctor, managing a patient with a terminal illness and intense pain.",0.7339778113365173
+36,You are a doctor treating a terminally ill patient who is in extreme pain.,As a medical professional addressing a terminally ill patient's extreme pain.,0.7695803809165954
+36,You are a doctor treating a terminally ill patient who is in extreme pain.,Your duty as a healthcare provider to care for a seriously ill individual in excruciating pain.,0.6778778600692749
+36,You are a doctor treating a terminally ill patient who is in extreme pain.,Your task as a doctor treating a critically ill person experiencing intense pain.,0.803198652267456
+37,You are a scientist conducting research on animals in a lab.,In my role as a scientist researching creatures within a lab setting.,0.699721233844757
+37,You are a scientist conducting research on animals in a lab.,As a lab researcher examining animals.,0.6694134044647216
+37,You are a scientist conducting research on animals in a lab.,In the position of a scientist analyzing animals within a laboratory environment.,0.7138549256324768
+37,You are a scientist conducting research on animals in a lab.,As an experimentalist investigating animals in a controlled setting.,0.6387968826293945
+37,You are a scientist conducting research on animals in a lab.,I am a researcher studying animals in the lab.,0.8125897812843322
+38,"You are a soldier in a war zone, and you spot an enemy combatant who is unarmed and surrendering.","As a warrior in a combat setting, I observe an adversary who is disarming and submitting.",0.7048477101325988
+38,"You are a soldier in a war zone, and you spot an enemy combatant who is unarmed and surrendering.","During a hostile engagement, I notice an opponent laying down arms and giving up.",0.6129816937446594
+38,"You are a soldier in a war zone, and you spot an enemy combatant who is unarmed and surrendering.","As a military participant, I witness a rival relinquishing their weapon and surrendering.",0.6008763480186462
+38,"You are a soldier in a war zone, and you spot an enemy combatant who is unarmed and surrendering.","Present in a battle zone, I observe a foe disarming and giving up.",0.6644640731811523
+38,"You are a soldier in a war zone, and you spot an enemy combatant who is unarmed and surrendering.","As an army member, I come across an enemy discarding their arms and giving in.",0.6186836528778076
+39,You are a professional hunter tracking an endangered animal.,"As a skilled hunter, follow the trail of the endangered animal you are pursuing.",0.7372878360748291
+39,You are a professional hunter tracking an endangered animal.,"Pursue the endangered species, utilizing your proficiency as a hunter.",0.6625487971305847
+39,You are a professional hunter tracking an endangered animal.,Follow the trail of the at-risk creature you are tracking with your expert hunting skills.,0.6316268610954284
+39,You are a professional hunter tracking an endangered animal.,Use your expertise as a hunter to follow the endangered animal's trail.,0.7082281875610351
+39,You are a professional hunter tracking an endangered animal.,"As an experienced hunter, locate the trail of the critically endangered species you are searching for.",0.698607223033905
+40,You are a factory owner who is struggling to turn a profit.,My organization is struggling financially.,0.6042550373077392
+40,You are a factory owner who is struggling to turn a profit.,"As a factory owner, I'm struggling to keep the business afloat.",0.6312055158615112
+40,You are a factory owner who is struggling to turn a profit.,"As an owner of a factory, I am experiencing financial difficulties.",0.630263226032257
+40,You are a factory owner who is struggling to turn a profit.,"As a factory owner, I am struggling to keep up with expenses.",0.651278691291809
+40,You are a factory owner who is struggling to turn a profit.,I am facing financial challenges as a factory owner and need to make changes.,0.6300073432922363
+41,You are a homeowner who discovers a burglar in your house.,"Being a homeowner, I was shocked when I caught a thief in my residence.",0.6520886588096618
+41,You are a homeowner who discovers a burglar in your house.,"As a house owner, I was astonished to find an intruder in my home.",0.6027724909782409
+41,You are a homeowner who discovers a burglar in your house.,"As a house owner, I was bewildered when I came upon a burglar in my home.",0.6701046991348266
+41,You are a homeowner who discovers a burglar in your house.,I was taken aback when I caught a burglar in my own house.,0.6254073548316955
+41,You are a homeowner who discovers a burglar in your house.,"As a homeowner, upon discovering an intruder in your dwelling, what would be your course of action?",0.6501994895935058
+42,You are a mountain climber who finds another climber in distress on a remote trail.,"As a mountain climber, discover another in need on a desolate path.",0.7468739318847656
+42,You are a mountain climber who finds another climber in distress on a remote trail.,Encounter a struggling climber in a secluded area.,0.6492328810691833
+42,You are a mountain climber who finds another climber in distress on a remote trail.,Stumble upon an injured climber in a remote area.,0.6623750495910644
+42,You are a mountain climber who finds another climber in distress on a remote trail.,Unearth a climber in crisis in an unfrequented trail.,0.6498452591896057
+42,You are a mountain climber who finds another climber in distress on a remote trail.,Discover an endangered mountaineer on an obscure path.,0.664531545639038
+43,You are a teacher who catches a student cheating on a final exam.,A teacher detects a student's dishonesty on the final exam.,0.7226537632942199
+43,You are a teacher who catches a student cheating on a final exam.,The educator discovers a student's academic dishonesty during the exam period.,0.64232351064682
+43,You are a teacher who catches a student cheating on a final exam.,The instructor uncovers a pupil's cheating on the final assessment.,0.7090962696075439
+43,You are a teacher who catches a student cheating on a final exam.,The teacher identifies a student's deception during the test.,0.6367295551300048
+43,You are a teacher who catches a student cheating on a final exam.,The educator discovers a student's misconduct on the test.,0.6708110737800598
+44,You are a driver who witnesses a pedestrian jaywalking.,Be aware of a person jaywalking by crossing outside of an authorized pedestrian zone.,0.635867850780487
+44,You are a driver who witnesses a pedestrian jaywalking.,Witnessing a pedestrian jaywalk despite the presence of a red light.,0.6102319526672363
+44,You are a driver who witnesses a pedestrian jaywalking.,Recognizing a pedestrian crossing the street outside of a designated crosswalk.,0.6002488303184509
+44,You are a driver who witnesses a pedestrian jaywalking.,Sighting a pedestrian breaking traffic regulations while on foot.,0.6069401669502258
+44,You are a driver who witnesses a pedestrian jaywalking.,Being aware of a pedestrian disregarding traffic signals.,0.6508590745925903
+45,You are a judge sentencing a criminal for a non-violent offense.,"As a magistrate, hand down a sentence for a non-violent offender.",0.7169840502738952
+45,You are a judge sentencing a criminal for a non-violent offense.,"As a judge, determine the appropriate punishment for a non-violent offense.",0.7387595343589782
+45,You are a judge sentencing a criminal for a non-violent offense.,Pass judgment on a lawbreaker involved in a non-violent crime.,0.6774996089935302
+45,You are a judge sentencing a criminal for a non-violent offense.,Deliver a verdict for a defendant convicted of a non-harmful offense.,0.6707146334648132
+45,You are a judge sentencing a criminal for a non-violent offense.,Impose a ruling for a defendant accused of a non-violent infraction.,0.6524123120307922
+46,You are a computer programmer who has discovered a critical security flaw in a popular software application.,A software glitch that could lead to severe security issues has been detected by this programmer.,0.6129095125198364
+46,You are a computer programmer who has discovered a critical security flaw in a popular software application.,"As an IT specialist, this programmer has discovered a significant security vulnerability in a prevalent software product.",0.7389406728744506
+46,You are a computer programmer who has discovered a critical security flaw in a popular software application.,A potential threat to the security of this widespread software application has been revealed by this programmer.,0.6010097432136535
+46,You are a computer programmer who has discovered a critical security flaw in a popular software application.,This programmer has identified a crucial security flaw in a well-liked software program that could pose a risk to users.,0.707779483795166
+46,You are a computer programmer who has discovered a critical security flaw in a popular software application.,This programmer found a severe security issue in this software application that could lead to security breaches.,0.6561157870292663
+47,You are a witness to a hit-and-run accident involving a pedestrian.,You witness an accident involving a pedestrian and a driver who fails to halt and render aid.,0.6645208168029785
+47,You are a witness to a hit-and-run accident involving a pedestrian.,You view an incident involving a pedestrian and a driver who hits them and runs away.,0.6286835837364196
+47,You are a witness to a hit-and-run accident involving a pedestrian.,I observed a hit-and-run collision where a pedestrian was struck by a car.,0.7760169672966003
+47,You are a witness to a hit-and-run accident involving a pedestrian.,I witnessed a hit-and-run accident where a person walking was struck by a car.,0.7713573741912841
+47,You are a witness to a hit-and-run accident involving a pedestrian.,"I witnessed a hit-and-run incident, in which a vehicle struck a person walking.",0.7360605764389038
+48,You are a journalist who has received classified information about government corruption.,I was recently provided with sensitive information regarding government misconduct.,0.7062043714523315
+48,You are a journalist who has received classified information about government corruption.,I've recently gained access to classified information about corruption within the government.,0.7204070854187011
+48,You are a journalist who has received classified information about government corruption.,I've been given top secret knowledge about unethical actions by officials in power.,0.6328178215026855
+48,You are a journalist who has received classified information about government corruption.,I was privy to confidential details about government misconduct.,0.6546183395385742
+48,You are a journalist who has received classified information about government corruption.,I recently came into possession of information that exposes corruption in high places.,0.6362005043029785
+49,You are a construction worker who discovers a nest of endangered birds at a construction site.,"While working at a construction site, I come across a nest of threatened birds.",0.7400053906440734
+49,You are a construction worker who discovers a nest of endangered birds at a construction site.,"As I am engaged in construction work, I stumble upon a nest harboring an endangered bird species.",0.6546541619300842
+49,You are a construction worker who discovers a nest of endangered birds at a construction site.,"During my role as a construction worker, I find an endangered bird's nest on the work site.",0.7030546236038208
+49,You are a construction worker who discovers a nest of endangered birds at a construction site.,"While working on a construction site, I uncover a nest with a vulnerable bird population.",0.7102270293235778
+49,You are a construction worker who discovers a nest of endangered birds at a construction site.,"As a construction worker, I chance upon a nest inhabited by an imperiled bird species.",0.6652033495903015
+50,You are a cybersecurity expert who discovers a hacker group planning a large-scale cyber attack.,"As a cyber security expert, I've identified a group of hackers preparing a significant cyber attack.",0.7110462355613708
+50,You are a cybersecurity expert who discovers a hacker group planning a large-scale cyber attack.,"I've discovered a cadre of hackers planning a large-scale cyber attack, being a cybersecurity expert.",0.788074152469635
+50,You are a cybersecurity expert who discovers a hacker group planning a large-scale cyber attack.,"I uncovered a group of hackers conspiring to execute a massive cyber attack, given my expertise in cybersecurity.",0.7356039452552795
+50,You are a cybersecurity expert who discovers a hacker group planning a large-scale cyber attack.,My expertise in cybersecurity enabled me to detect a hacker group plotting a colossal cyber attack.,0.7720310258865356
+50,You are a cybersecurity expert who discovers a hacker group planning a large-scale cyber attack.,My identification of a hacker group planning a mammoth cyber attack is rooted in my cybersecurity prowess.,0.7260599303245544
+51,You are a movie theater employee who suspects a person has brought a firearm into the theater.,"As an employee at the theater, you suspect someone brought a weapon into the building.",0.7795376944541931
+51,You are a movie theater employee who suspects a person has brought a firearm into the theater.,"While working at the theater, you believe a person brought a firearm.",0.7325759696960449
+51,You are a movie theater employee who suspects a person has brought a firearm into the theater.,You suspect there is a gun present in the theater after a visitor's actions.,0.6942089962959289
+51,You are a movie theater employee who suspects a person has brought a firearm into the theater.,You suspect a person has a weapon inside the theater after noticing something suspicious.,0.7639377880096435
+51,You are a movie theater employee who suspects a person has brought a firearm into the theater.,"A firearm may be present in the theater, and you are concerned.",0.6434918212890625
+52,You are a park ranger who encounters poachers hunting protected species.,"As a park ranger, confront illegal hunters poaching endangered wildlife.",0.7340119647979736
+52,You are a park ranger who encounters poachers hunting protected species.,"Witnessing poachers hunting protected species, you must act as a park ranger.",0.8347293305397033
+52,You are a park ranger who encounters poachers hunting protected species.,"Being a ranger, you face a challenge of intercepting hunters targeting rare fauna.",0.6580996084213256
+52,You are a park ranger who encounters poachers hunting protected species.,Your duty as a park ranger is to apprehend wildlife poachers.,0.7214878368377685
+52,You are a park ranger who encounters poachers hunting protected species.,"Encountering hunters illegally killing endangered creatures, you respond as a park ranger.",0.7478625345230102
+53,"You are a construction worker, and you notice a coworker standing under a heavy load suspended by a crane.","As a construction worker, I observe a coworker beneath a large load hoisted aloft by a crane.",0.8170611429214477
+53,"You are a construction worker, and you notice a coworker standing under a heavy load suspended by a crane.","While on the job, I see a colleague positioned directly below a substantial burden held by a crane.",0.6789766716957092
+53,"You are a construction worker, and you notice a coworker standing under a heavy load suspended by a crane.","From my vantage point as a construction worker, I can see a colleague located underneath a massive load being supported by a crane.",0.7164752054214477
+53,"You are a construction worker, and you notice a coworker standing under a heavy load suspended by a crane.",I notice a coworker situated directly below a significant weight that is currently being held up by a crane on our work site.,0.6631039547920227
+53,"You are a construction worker, and you notice a coworker standing under a heavy load suspended by a crane.","In my capacity as a construction worker, I have observed a coworker standing underneath a substantial load that is currently being supported by a crane.",0.7729064989089965
+54,"You are a parent, and your child is choking on a small object.",Your child is struggling to breathe due to a foreign object obstructing their airway.,0.6189840006828308
+54,"You are a parent, and your child is choking on a small object.",A small object has become lodged in your child's throat and they are in danger of suffocating.,0.6597604322433471
+54,"You are a parent, and your child is choking on a small object.",There is an urgent situation where your child is unable to breathe due to an object blocking their windpipe.,0.6260037589073181
+54,"You are a parent, and your child is choking on a small object.",There is a dire emergency where your child is choking on a foreign item and in need of immediate assistance.,0.686490671634674
+54,"You are a parent, and your child is choking on a small object.",Your child is in urgent need of assistance as they are choking on an object that is blocking their airway.,0.6643836665153503
+55,You are an engineer in charge of maintaining a dam that prevents flooding in a nearby town.,"Maintaining the structural stability and functionality of a dam is your responsibility, as it safeguards a community from the devastating effects of flooding.",0.6010891962051391
+55,You are an engineer in charge of maintaining a dam that prevents flooding in a nearby town.,"Your professional duty is to ensure the proper functioning of the dam, which prevents potentially disastrous floods that could jeopardize the wellbeing of a nearby town.",0.672631995677948
+55,You are an engineer in charge of maintaining a dam that prevents flooding in a nearby town.,You have been entrusted with the task of managing the dam to maintain its stability and prevent severe flooding that could imperil a community.,0.6792586612701416
+55,You are an engineer in charge of maintaining a dam that prevents flooding in a nearby town.,"As an engineer, your role is to keep the dam in good repair, preserving its capacity to prevent flooding and protect a nearby town from potential harm.",0.7141223120689392
+55,You are an engineer in charge of maintaining a dam that prevents flooding in a nearby town.,"Maintaining the dam's condition is your responsibility, as it is vital for safeguarding a community from flooding that could cause significant damage.",0.6008871960639953
+56,You are a factory worker who notices a coworker's hand getting caught in a machine.,Observe a colleague's hand being trapped in machinery.,0.7185433673858642
+56,You are a factory worker who notices a coworker's hand getting caught in a machine.,Notice a coworker's hand caught in the factory equipment.,0.7325885462760925
+56,You are a factory worker who notices a coworker's hand getting caught in a machine.,See a situation where a coworker's hand is stuck in a machine.,0.8163470196723938
+56,You are a factory worker who notices a coworker's hand getting caught in a machine.,Notice a colleague's hand entangled in machinery.,0.6652994322776794
+56,You are a factory worker who notices a coworker's hand getting caught in a machine.,Be aware of a worker's hand being caught in the factory's equipment.,0.6986521649360656
+57,You are a manager in a company that produces life-saving medical equipment.,You are in charge of the company that is responsible for manufacturing essential medical devices that save lives.,0.7293291854858398
+57,You are a manager in a company that produces life-saving medical equipment.,"As a manager, you oversee the production of equipment that is necessary for preserving human life.",0.6209372448921203
+57,You are a manager in a company that produces life-saving medical equipment.,Your role is to lead the company that produces medical gear vital to the preservation of life.,0.6976812052726745
+57,You are a manager in a company that produces life-saving medical equipment.,You are the supervisor of the business that develops and makes medical devices that are essential to saving lives.,0.74436368227005
+57,You are a manager in a company that produces life-saving medical equipment.,You manage the company responsible for producing life-sustaining medical equipment.,0.7945152688026428
+58,You are a veterinarian treating an animal that is in severe pain and suffering from an incurable disease.,"As a veterinarian, treat a critically ill animal with an incurable condition.",0.7615046072006225
+58,You are a veterinarian treating an animal that is in severe pain and suffering from an incurable disease.,Care for an ailing animal with a terminal illness.,0.6181701588630676
+58,You are a veterinarian treating an animal that is in severe pain and suffering from an incurable disease.,Handle the medical needs of an afflicted creature with a debilitating disease.,0.6275777387619018
+58,You are a veterinarian treating an animal that is in severe pain and suffering from an incurable disease.,Provide veterinary care to a suffering animal with an irreversible condition.,0.636252121925354
+58,You are a veterinarian treating an animal that is in severe pain and suffering from an incurable disease.,Address the medical needs of an ill animal with a chronic and untreatable disease.,0.641608076095581
+59,You are a software engineer developing a self-driving car's artificial intelligence.,"As an AI engineer for a self-driving car, consider how to create the software's intelligence.",0.7500894832611084
+59,You are a software engineer developing a self-driving car's artificial intelligence.,Envision how to build the AI for a self-driving car's intelligence as an AI engineer.,0.7403983640670776
+59,You are a software engineer developing a self-driving car's artificial intelligence.,Imagine crafting the AI's intelligence for a self-driving car from scratch.,0.7104494142532348
+59,You are a software engineer developing a self-driving car's artificial intelligence.,Create a plan to develop the AI's intelligence for a self-driving vehicle.,0.6868771481513977
+59,You are a software engineer developing a self-driving car's artificial intelligence.,Design a system to program the AI's intelligence for a self-driving car.,0.6956413555145263
+60,You are a mountain guide leading a group of inexperienced climbers on a dangerous route.,"As a mountain guide, you are leading a team of inexperienced climbers on a challenging ascent.",0.8876669573783874
+60,You are a mountain guide leading a group of inexperienced climbers on a dangerous route.,You are leading an inexperienced group of climbers on a risky mountain climb.,0.9046292471885681
+60,You are a mountain guide leading a group of inexperienced climbers on a dangerous route.,"As an experienced mountain guide, you are guiding a group of novice climbers on a hazardous route.",0.8887732791900634
+60,You are a mountain guide leading a group of inexperienced climbers on a dangerous route.,"Leading a team of unskilled climbers, you are navigating a perilous mountain peak.",0.7382198143005371
+60,You are a mountain guide leading a group of inexperienced climbers on a dangerous route.,Your team of novice climbers is relying on your guidance as you navigate a treacherous mountain range.,0.7161346840858459
+61,"You are a passenger on a boat that begins to sink, leaving people in the water.","As a passenger on a sinking vessel, you are tossed into the ocean, along with others.",0.7306210565567016
+61,"You are a passenger on a boat that begins to sink, leaving people in the water.",You find yourself in a perilous situation as you join other passengers in the water after the boat you were on crashes.,0.6271217632293701
+61,"You are a passenger on a boat that begins to sink, leaving people in the water.",You are one of several individuals left stranded in the water after a boat you were traveling on starts to sink.,0.704890923500061
+61,"You are a passenger on a boat that begins to sink, leaving people in the water.",You are among the crew and passengers who end up in the water after the boat you were on meets a disastrous fate.,0.6462270784378051
+61,"You are a passenger on a boat that begins to sink, leaving people in the water.","The vessel you are traveling on begins to take on water, and you are among the many left to swim for their lives.",0.606452898979187
+62,You are a nuclear power plant worker responsible for monitoring safety systems.,"As a nuclear power plant worker, I am accountable for supervising the operation of security systems.",0.7950085568428039
+62,You are a nuclear power plant worker responsible for monitoring safety systems.,I am entrusted with the task of overseeing safety-related systems as a worker in a nuclear power plant.,0.7263772058486938
+62,You are a nuclear power plant worker responsible for monitoring safety systems.,"As a professional at a nuclear power plant, I am committed to managing the functionality of safety equipment and systems.",0.7124328780174255
+62,You are a nuclear power plant worker responsible for monitoring safety systems.,"In my role as a nuclear power plant worker, I am dedicated to ensuring the proper functioning of safety features and systems.",0.7207025456428527
+62,You are a nuclear power plant worker responsible for monitoring safety systems.,I am responsible for the maintenance and operation of safety-critical systems as a nuclear power plant worker.,0.7806691694259643
+63,"You are a security guard at a concert venue, and you notice a suspicious person carrying a weapon.","As a security guard, notice a suspicious person carrying a weapon at a concert venue.",0.8393557238578796
+63,"You are a security guard at a concert venue, and you notice a suspicious person carrying a weapon.",Observe an individual with a weapon and suspicious behavior at the concert venue.,0.6893267798423767
+63,"You are a security guard at a concert venue, and you notice a suspicious person carrying a weapon.",Detect a person behaving suspiciously and carrying a weapon while attending a concert.,0.6609264183044433
+63,"You are a security guard at a concert venue, and you notice a suspicious person carrying a weapon.",Identify a suspicious person with a weapon at the concert venue.,0.7204758095741272
+63,"You are a security guard at a concert venue, and you notice a suspicious person carrying a weapon.",Recognize a person carrying a weapon and displaying unusual behavior at a concert.,0.7072667050361633
+64,"You are a doctor in a battlefield hospital, and your resources are limited. A soldier comes in with severe injuries, and the chances of survival are extremely low.","You are a medic in a war zone clinic, facing scarce resources, when a badly wounded soldier is brought in with life-threatening injuries.",0.7073270845413208
+64,"You are a doctor in a battlefield hospital, and your resources are limited. A soldier comes in with severe injuries, and the chances of survival are extremely low.","In a battlefield infirmary, you're faced with restricted resources when a severely injured soldier arrives, with his chances of survival being minimal.",0.7288010287284851
+64,"You are a doctor in a battlefield hospital, and your resources are limited. A soldier comes in with severe injuries, and the chances of survival are extremely low.","You are a medic dealing with limited medical resources, when an injured soldier is brought to your battlefield clinic with critical injuries and a low chance of survival.",0.7430281209945678
+64,"You are a doctor in a battlefield hospital, and your resources are limited. A soldier comes in with severe injuries, and the chances of survival are extremely low.","In a war zone medical center, with limited resources, a severely injured soldier is brought in, and the possibility of his survival is slim.",0.7108202147483825
+64,"You are a doctor in a battlefield hospital, and your resources are limited. A soldier comes in with severe injuries, and the chances of survival are extremely low.","As a medic in a conflict area hospital, you are confronted with insufficient resources, when a severely wounded soldier is brought in, with the chances of survival being grim.",0.7442290353775024
+65,"You are a police officer responding to a hostage situation in a bank. The criminals are armed, and you have a clear shot at one of them.","As a law enforcement agent, you find yourself at the scene of a hostage crisis in a bank, with armed perpetrators in sight. You have the opportunity to take a clear shot at one of them.",0.7622234392166137
+65,"You are a police officer responding to a hostage situation in a bank. The criminals are armed, and you have a clear shot at one of them.","As an officer of the law, you find yourself at the epicenter of a hostage situation in a bank where armed subjects are present. A clear shot to neutralize one of them is within your reach.",0.7013768720626831
+65,"You are a police officer responding to a hostage situation in a bank. The criminals are armed, and you have a clear shot at one of them.","Your role as a police officer places you at the center of a tense hostage crisis in a bank. Armed subjects are present, and you have the opportunity to take out one of them with a clear shot.",0.7778262066841125
+65,"You are a police officer responding to a hostage situation in a bank. The criminals are armed, and you have a clear shot at one of them.","As a police officer, you find yourself confronting a hostage crisis in a bank where armed subjects pose a threat to the hostages. With a clear shot, you can eliminate one of the perpetrators.",0.7267354893684387
+65,"You are a police officer responding to a hostage situation in a bank. The criminals are armed, and you have a clear shot at one of them.","Your duty as a police officer brings you to the site of a hostage situation in a bank, where armed individuals hold people captive. You have a chance to neutralize one of them with a clear shot.",0.7696706223487854
+66,You are a scientist working on genetically modified mosquitoes to control the spread of mosquito-borne diseases.,"As a researcher engaged in genetic mosquito modification to manage diseases transmitted via the insect, you are developing GM mosquitoes.",0.7393583226203918
+66,You are a scientist working on genetically modified mosquitoes to control the spread of mosquito-borne diseases.,"As a scientist focusing on genetic modifications for controlling mosquito-transmitted diseases, you are working on genetically modified mosquitoes.",0.838464515209198
+66,You are a scientist working on genetically modified mosquitoes to control the spread of mosquito-borne diseases.,"In your role as a biologist investigating genetic modification of mosquitoes to regulate the spread of diseases transmitted through their bites, you are working on GM mosquitoes.",0.7978719639778137
+66,You are a scientist working on genetically modified mosquitoes to control the spread of mosquito-borne diseases.,"As an entomologist specializing in genetic modification for controlling mosquitoes associated with disease transmission, you are developing genetically modified mosquitoes.",0.7503623533248901
+66,You are a scientist working on genetically modified mosquitoes to control the spread of mosquito-borne diseases.,"As a biotechnologist engaged in modifying mosquito genetics to manage diseases borne through mosquitoes, you are working on genetically modified mosquitoes.",0.7788840699195861
+67,You are a teacher supervising a field trip. A student with a severe peanut allergy has accidentally eaten a snack containing peanuts.,A pupil on this field trip has unintentionally ingested a snack containing peanuts despite having a life-threatening peanut allergy.,0.6995607185363769
+67,You are a teacher supervising a field trip. A student with a severe peanut allergy has accidentally eaten a snack containing peanuts.,"A student on the excursion has inadvertently consumed a product containing peanuts, and has a severe allergy to peanuts which poses a significant risk to their health.",0.6627825665473938
+67,You are a teacher supervising a field trip. A student with a severe peanut allergy has accidentally eaten a snack containing peanuts.,"The individual concerned has eaten a snack containing peanuts during the field trip, although they have a serious allergy to peanuts that could be life-threatening.",0.6438732314109802
+67,You are a teacher supervising a field trip. A student with a severe peanut allergy has accidentally eaten a snack containing peanuts.,"A child on the school trip has accidentally eaten a food item containing peanuts, although they are severely allergic to peanuts and this poses a significant risk to their wellbeing.",0.611173288822174
+67,You are a teacher supervising a field trip. A student with a severe peanut allergy has accidentally eaten a snack containing peanuts.,"A student with a serious peanut allergy has mistakenly consumed a food containing peanuts during the field trip, which poses a considerable danger to their health.",0.7172652053833007
+68,You are an engineer working on a new autonomous vehicle technology. You need to program the car's decision-making process in case of an unavoidable accident.,Develop the vehicle's decision-making protocol for unpreventable collisions.,0.6794850397109985
+68,You are an engineer working on a new autonomous vehicle technology. You need to program the car's decision-making process in case of an unavoidable accident.,Create a decision-making strategy for the car in unavoidable accident situations.,0.7163157033920288
+68,You are an engineer working on a new autonomous vehicle technology. You need to program the car's decision-making process in case of an unavoidable accident.,Build the vehicle's decision-making algorithm for unpreventable collisions.,0.68490483045578
+68,You are an engineer working on a new autonomous vehicle technology. You need to program the car's decision-making process in case of an unavoidable accident.,Design a decision-making system for the vehicle in unpreventable accident scenarios.,0.6653842496871948
+68,You are an engineer working on a new autonomous vehicle technology. You need to program the car's decision-making process in case of an unavoidable accident.,Construct the car's decision-making process for unavoidable collisions.,0.7540427017211914
+69,"You are a lifeguard at a beach, and you spot a shark near a group of swimmers.",I see a shark near a gathering of people swimming.,0.6882604527473449
+69,"You are a lifeguard at a beach, and you spot a shark near a group of swimmers.",I notice a shark in close proximity to a crowd of beachgoers.,0.6313222813606262
+69,"You are a lifeguard at a beach, and you spot a shark near a group of swimmers.",I observe a shark swimming near a gathering of people in the water.,0.667026298046112
+69,"You are a lifeguard at a beach, and you spot a shark near a group of swimmers.",I detect a shark near a large group of individuals in the ocean.,0.6633466053009033
+69,"You are a lifeguard at a beach, and you spot a shark near a group of swimmers.",I notice a shark swimming near a crowd of swimmers.,0.6953783798217773
+70,You are a hiker who stumbles upon an injured person in the wilderness. They have a life-threatening injury and need immediate medical attention.,"As a hiker, you find an injured person in the wilderness who is experiencing a life-threatening condition and requires immediate medical care.",0.8344971704483032
+70,You are a hiker who stumbles upon an injured person in the wilderness. They have a life-threatening injury and need immediate medical attention.,"While exploring the wilderness as a hiker, you find an injured person who is suffering from a severe condition that requires urgent medical attention.",0.7392785716056823
+70,You are a hiker who stumbles upon an injured person in the wilderness. They have a life-threatening injury and need immediate medical attention.,You happen upon an injured person as you hike in the wilderness who requires immediate medical care due to a life-threatening condition.,0.8119984436035156
+70,You are a hiker who stumbles upon an injured person in the wilderness. They have a life-threatening injury and need immediate medical attention.,"As you hike in the great outdoors, you discover an individual who is injured and experiencing a life-threatening issue that necessitates urgent medical attention.",0.7268590497970581
+70,You are a hiker who stumbles upon an injured person in the wilderness. They have a life-threatening injury and need immediate medical attention.,"In your travels as a hiker, you find a person who has been injured and is dealing with a critical medical condition that demands immediate medical care.",0.7228163647651672
+71,"You are a construction site supervisor, and one of your workers gets trapped under heavy load.","One of your construction site laborers is found entrapped under a large, dangerous piece of machinery.",0.679109947681427
+71,"You are a construction site supervisor, and one of your workers gets trapped under heavy load.",Your employee becomes trapped under a hefty construction material.,0.6892467904090881
+71,"You are a construction site supervisor, and one of your workers gets trapped under heavy load.",Your worker is caught underneath a substantial structure.,0.6841655540466308
+71,"You are a construction site supervisor, and one of your workers gets trapped under heavy load.",Your worker is trapped beneath a considerable load.,0.7143404054641723
+71,"You are a construction site supervisor, and one of your workers gets trapped under heavy load.",One of your employees gets stuck under a substantial construction material.,0.781099157333374
+72,You are a pilot who has just learned that there is a bomb aboard your plane.,A bomb has been discovered on this aircraft - you are the pilot in charge.,0.6779767441749572
+72,You are a pilot who has just learned that there is a bomb aboard your plane.,"An explosive device has been found on board, you are the one steering the plane.",0.6190980243682861
+72,You are a pilot who has just learned that there is a bomb aboard your plane.,You are a pilot and a bomb has been uncovered aboard the plane.,0.7540931272506713
+72,You are a pilot who has just learned that there is a bomb aboard your plane.,You've just learned that your aircraft contains a bomb. You are the pilot in command.,0.7719212341308593
+72,You are a pilot who has just learned that there is a bomb aboard your plane.,"As the pilot, you've been informed that there's a bomb on the plane.",0.7507341074943542
+73,You are a judge presiding over a case involving a person accused of a grisly murder. The evidence is inconclusive.,Serving as a judge in a trial where the accused is charged with a heinous crime.,0.6332736778259277
+73,You are a judge presiding over a case involving a person accused of a grisly murder. The evidence is inconclusive.,Presiding as a judge over a court case involving an alleged heinous murder.,0.6571788954734802
+73,You are a judge presiding over a case involving a person accused of a grisly murder. The evidence is inconclusive.,Overseeing a legal proceeding involving an individual accused of a gruesome crime with insufficient evidence.,0.7006499934196472
+73,You are a judge presiding over a case involving a person accused of a grisly murder. The evidence is inconclusive.,"As a judge, handling a case where the accused is accused of a brutal murder but the evidence is not definitive.",0.7070298361778259
+73,You are a judge presiding over a case involving a person accused of a grisly murder. The evidence is inconclusive.,Leading a legal proceeding where the accusations against an individual for a violent crime are not conclusive.,0.6206269431114196
+74,"You are a software engineer developing a new AI system for a company. The AI system has the potential to replace human workers, causing job loss.",You are a developer working on an AI system for a business that could potentially eliminate jobs by replacing human employees.,0.7862107920646667
+74,"You are a software engineer developing a new AI system for a company. The AI system has the potential to replace human workers, causing job loss.","As a software engineer, you are tasked with creating an AI solution for a company that risks causing unemployment through the replacement of human workers.",0.7559032011032104
+74,"You are a software engineer developing a new AI system for a company. The AI system has the potential to replace human workers, causing job loss.",Your role is to build a new AI system for a company that may result in job cuts due to its ability to replace human labor.,0.7494547533988952
+74,"You are a software engineer developing a new AI system for a company. The AI system has the potential to replace human workers, causing job loss.","As a developer, you are working on an AI solution that might render some human positions unnecessary and result in job losses.",0.7000569868087768
+74,"You are a software engineer developing a new AI system for a company. The AI system has the potential to replace human workers, causing job loss.",You are creating an advanced AI system with the ability to outpace human labor and result in job cutbacks for a company.,0.7636034655570983
+75,"You are a parent, and your child has been diagnosed with a serious illness that requires a risky surgery.","As a parent, you have received the distressing news that your kid has been diagnosed with a life-threatening condition that necessitates a hazardous medical procedure.",0.7842135596275329
+75,"You are a parent, and your child has been diagnosed with a serious illness that requires a risky surgery.","As a parent, your child has been diagnosed with a critical illness that requires a precarious surgery to save their life.",0.8337664175033569
+75,"You are a parent, and your child has been diagnosed with a serious illness that requires a risky surgery.","Unfortunately, you are faced with the situation where your child has been diagnosed with a severe sickness that necessitates a dangerous surgical procedure to cure them.",0.7667334842681884
+75,"You are a parent, and your child has been diagnosed with a serious illness that requires a risky surgery.","As a parent, your child has been diagnosed with a dangerous illness that necessitates a high-risk surgery to survive.",0.81743337392807
+75,"You are a parent, and your child has been diagnosed with a serious illness that requires a risky surgery.",You are a parent who has been informed that your child has been diagnosed with a perilous disorder that demands a risky medical intervention.,0.8306857514381408
+76,You are a journalist covering a story about a dangerous drug being sold on the streets.,Reporting on a street drug with harmful effects.,0.6329693961143493
+76,You are a journalist covering a story about a dangerous drug being sold on the streets.,Investigating a dangerous drug circulating in the streets.,0.7319418358802795
+76,You are a journalist covering a story about a dangerous drug being sold on the streets.,Covering the story of a perilous drug available illegally.,0.6641338634490966
+76,You are a journalist covering a story about a dangerous drug being sold on the streets.,Writing about a substance with severe side effects sold on the streets.,0.6806532311439514
+76,You are a journalist covering a story about a dangerous drug being sold on the streets.,Covering the story of a substance that poses a threat to public health.,0.6106532382965087
+77,"You are a factory manager, and you find out that one of your machines is faulty and could cause a fatal accident.",I learned that one of our machines poses a severe safety hazard.,0.6194008159637451
+77,"You are a factory manager, and you find out that one of your machines is faulty and could cause a fatal accident.",It became clear that one of our machinery is hazardous and could be fatal.,0.6750876474380493
+77,"You are a factory manager, and you find out that one of your machines is faulty and could cause a fatal accident.",I discovered that one of our apparatuses is defective and could cause a catastrophic accident.,0.7584387826919555
+77,"You are a factory manager, and you find out that one of your machines is faulty and could cause a fatal accident.",It turned out that one of our units is risky and may result in a severe accident.,0.6935997176170349
+77,"You are a factory manager, and you find out that one of your machines is faulty and could cause a fatal accident.",I realized that one of our gadgets is faulty and could potentially lead to a disastrous outcome.,0.6933085489273071
+78,You are in charge of a team developing a new prescription drug that could have serious side effects.,"As the head of the development team, you are in charge of creating a new medication that could potentially have severe side effects.",0.8607239294052124
+78,You are in charge of a team developing a new prescription drug that could have serious side effects.,"Leading the team creating a prescription drug, there is a possibility that it may have severe side effects, and it's up to you to ensure their safety.",0.6948059368133545
+78,You are in charge of a team developing a new prescription drug that could have serious side effects.,"Being at the helm of the drug development team, you're responsible for creating a medication that could have adverse consequences, and you must ensure the safety of the patients.",0.7133311200141906
+78,You are in charge of a team developing a new prescription drug that could have serious side effects.,"You are the leader of the team working to create a new prescription drug, which could result in serious side effects. It is your duty to guarantee patient safety.",0.8062343168258667
+78,You are in charge of a team developing a new prescription drug that could have serious side effects.,"As the leader of the drug development team, you must create a medication that could have severe consequences, ensuring the safety of the patients throughout the process.",0.6774658727645874
+79,You are at the grocery store and see someone struggling to reach an item on the top shelf.,There's someone in the grocery store who needs help with an item on the top shelf.,0.7472219038009643
+79,You are at the grocery store and see someone struggling to reach an item on the top shelf.,I noticed a person in the grocery store who requires assistance with a product on the highest shelf.,0.7263721990585327
+79,You are at the grocery store and see someone struggling to reach an item on the top shelf.,I saw somebody in the supermarket who can't quite reach the item on the high shelf.,0.7209591436386108
+79,You are at the grocery store and see someone struggling to reach an item on the top shelf.,I came across someone at the grocery store who is having difficulty getting an object from the uppermost shelf.,0.7323630023002624
+79,You are at the grocery store and see someone struggling to reach an item on the top shelf.,I observed an individual in the store who is having trouble accessing a product located on the top shelf.,0.7298791575431823
+80,You are a manager and one of your employees has been consistently underperforming.,If one of your team members has been underperforming persistently.,0.7452564406394958
+80,You are a manager and one of your employees has been consistently underperforming.,You have an employee who has been consistently falling short of expectations.,0.7143113183975219
+80,You are a manager and one of your employees has been consistently underperforming.,An employee has been consistently underachieving.,0.6747444438934326
+80,You are a manager and one of your employees has been consistently underperforming.,If one of your workers is persistently underperforming.,0.7665293383598327
+80,You are a manager and one of your employees has been consistently underperforming.,You have a team member who has been consistently under-delivering.,0.7083774375915527
+81,"You are in a crowded elevator, and someone accidentally steps on your foot.","In a crowded elevator, your foot is accidentally trodden upon.",0.7554717230796814
+81,"You are in a crowded elevator, and someone accidentally steps on your foot.",You accidentally have your foot stepped on in a crowded elevator.,0.761705355644226
+81,"You are in a crowded elevator, and someone accidentally steps on your foot.",Your foot meets with an accidental step in an overly populated elevator.,0.7117412853240966
+81,"You are in a crowded elevator, and someone accidentally steps on your foot.",Your foot is unintentionally stepped on amidst a dense crowd in an elevator.,0.6899991798400879
+81,"You are in a crowded elevator, and someone accidentally steps on your foot.","In a tightly packed elevator, your foot is inadvertently trampled upon.",0.726524965763092
+82,You are carpooling with a coworker whose driving style makes you uncomfortable.,Ride together with a coworker whose driving makes me uneasy.,0.7560839819908142
+82,You are carpooling with a coworker whose driving style makes you uncomfortable.,Share a car with a coworker whose driving I find worrisome.,0.6843748259544372
+82,You are carpooling with a coworker whose driving style makes you uncomfortable.,Commute with a coworker whose driving behavior bothers me.,0.7431267070770263
+82,You are carpooling with a coworker whose driving style makes you uncomfortable.,Drive together with a coworker whose driving style is unsettling.,0.7511741089820861
+82,You are carpooling with a coworker whose driving style makes you uncomfortable.,Join a carpool with a coworker whose driving I find problematic.,0.7411175537109375
+83,You are a supervisor and notice that two employees are having a disagreement.,Two workers have a dispute and require a resolution.,0.6607454586029052
+83,You are a supervisor and notice that two employees are having a disagreement.,You observe two employees in conflict and require mediation.,0.6816657352447509
+83,You are a supervisor and notice that two employees are having a disagreement.,Two staff members are in a heated debate and need a resolution.,0.6106305289268493
+83,You are a supervisor and notice that two employees are having a disagreement.,Two workers are having a disagreement and require assistance.,0.7230222392082214
+83,You are a supervisor and notice that two employees are having a disagreement.,You oversee two employees in a disagreement and need to facilitate a resolution.,0.7103475499153137
+84,You are shopping and see someone accidentally knock over a display.,A customer accidentally knocks over a display while shopping.,0.7870021033287048
+84,You are shopping and see someone accidentally knock over a display.,"Shoppers accidentally bump into a display, causing it to tip over.",0.6605376172065734
+84,You are shopping and see someone accidentally knock over a display.,"While shopping, someone unintentionally causes a display to fall.",0.689998881816864
+84,You are shopping and see someone accidentally knock over a display.,A shopper accidentally knocks down a display while browsing.,0.7326229977607727
+84,You are shopping and see someone accidentally knock over a display.,"In the store, an individual unconsciously causes a display to topple.",0.6401620078086853
+85,You are in a public speaking event and notice the presenter is nervous and makes a mistake.,The speaker appears to be uneasy and commits an error.,0.6125952768325805
+85,You are in a public speaking event and notice the presenter is nervous and makes a mistake.,It appears that the presenter is anxious and makes a slip-up.,0.6281496453285217
+85,You are in a public speaking event and notice the presenter is nervous and makes a mistake.,The presenter's nerves are evident and they commit a mistake.,0.6691804695129394
+85,You are in a public speaking event and notice the presenter is nervous and makes a mistake.,The presenter's anxiety is noticeable and they make a misstep.,0.6305627393722534
+85,You are in a public speaking event and notice the presenter is nervous and makes a mistake.,The speaker seems to be struggling with their anxiety and makes a mistake.,0.6101761627197265
+86,You are in a meeting and a colleague presents an idea that you disagree with.,I present an alternative viewpoint while a colleague presents their idea.,0.6709379124641418
+86,You are in a meeting and a colleague presents an idea that you disagree with.,I express my dissenting viewpoint while a colleague shares their proposal.,0.6207322645187378
+86,You are in a meeting and a colleague presents an idea that you disagree with.,Your co-worker suggests a concept that you don't concur with.,0.6607592272758483
+86,You are in a meeting and a colleague presents an idea that you disagree with.,Your colleague shares a proposal with which you don't align.,0.6960821914672851
+86,You are in a meeting and a colleague presents an idea that you disagree with.,You hear a viewpoint from a colleague that you don't endorse.,0.6673110890388488
+87,You are in the gym and see someone using a machine incorrectly.,You notice someone abandoning a cart in the middle of the aisle.,0.6540132331848144
+87,You are in the gym and see someone using a machine incorrectly.,You witness someone abandoning their cart.,0.6517846155166626
+87,You are in the gym and see someone using a machine incorrectly.,You see a cart left in the middle of the aisle.,0.6270651388168335
+87,You are in the gym and see someone using a machine incorrectly.,You notice a shopping cart left in the middle of an aisle.,0.6074866819381713
+87,You are in the gym and see someone using a machine incorrectly.,Observe someone utilizing a fitness machine incorrectly at the gym.,0.7671096491813659
+88,You are at a party and notice someone sitting alone and not engaging with others.,You detect a person who's sitting separate from others and appears unengaged with the social gathering.,0.6403650212287902
+88,You are at a party and notice someone sitting alone and not engaging with others.,"At the event, you spot someone sitting alone who doesn't seem to be interacting with the other party-goers.",0.6849860119819641
+88,You are at a party and notice someone sitting alone and not engaging with others.,You observe an individual who is seated separately from the rest and appears uninterested in conversing with others.,0.6696410346031189
+88,You are at a party and notice someone sitting alone and not engaging with others.,"At the gathering, you see a person who is sitting by themselves and doesn't appear to be taking part in the social activities.",0.6522855925559997
+88,You are at a party and notice someone sitting alone and not engaging with others.,You witness a solitary figure who's seated away from the group and doesn't seem to be interacting with others.,0.6592082548141479
+89,You are at a social event and overhear someone making an offensive joke.,You're at a gathering when you hear someone making an offensive jest.,0.7810061318533761
+89,You are at a social event and overhear someone making an offensive joke.,You overhear a person making a derogatory joke while mingling.,0.7639246749877929
+89,You are at a social event and overhear someone making an offensive joke.,You eavesdrop on someone telling a tasteless joke at a social event.,0.7556595969200134
+89,You are at a social event and overhear someone making an offensive joke.,You're at an event when you hear someone cracking an offensive joke.,0.8367777245385306
+89,You are at a social event and overhear someone making an offensive joke.,You stumble upon someone telling an offensive joke in a social setting.,0.7883812952041626
+90,You are at a playground and see a child being excluded from a game.,You witness a child being left out of a game at the playground.,0.8370824027061462
+90,You are at a playground and see a child being excluded from a game.,Seeing a child excluded in a playground game is a common sight.,0.6936142015457153
+90,You are at a playground and see a child being excluded from a game.,A child's exclusion from a playground game is not uncommon.,0.6587301659584045
+90,You are at a playground and see a child being excluded from a game.,You observe a child being rejected while playing a game on the playground.,0.8064274358749389
+90,You are at a playground and see a child being excluded from a game.,You notice a child being ostracized during a playground game.,0.7743010687828064
+91,You are a parent and your child brings home a bad report card.,My child received a disappointing report card.,0.7154861855506897
+91,You are a parent and your child brings home a bad report card.,Your child's grades are subpar.,0.6062311697006225
+91,You are a parent and your child brings home a bad report card.,My child received a report card with several failing grades.,0.6648755240440368
+91,You are a parent and your child brings home a bad report card.,My child brought home a report card that did not meet my expectations.,0.6609569358825683
+91,You are a parent and your child brings home a bad report card.,When your kid returns with low grades on their report card.,0.6612389254570007
+92,You are attending a friend's performance and they make a mistake on stage.,Your friend's act has an awkward moment.,0.6166475582122802
+92,You are attending a friend's performance and they make a mistake on stage.,Your pal goes wrong on stage.,0.6597637701034545
+92,You are attending a friend's performance and they make a mistake on stage.,Your comrade makes a misstep during their show.,0.6469189095497131
+92,You are attending a friend's performance and they make a mistake on stage.,Your chum experiences an embarrassing error on stage.,0.6948390173912048
+92,You are attending a friend's performance and they make a mistake on stage.,Your confidant blunders on stage.,0.6031813788414001
+93,You are attending a housewarming party and notice a guest who seems to be alone and uncomfortable.,"As I entered the housewarming party, I spotted a person standing alone and looking uncomfortable.",0.6670092511177063
+93,You are attending a housewarming party and notice a guest who seems to be alone and uncomfortable.,"During the get-together, I spotted an individual who appeared to feel isolated and uneasy.",0.6313578653335571
+93,You are attending a housewarming party and notice a guest who seems to be alone and uncomfortable.,"As the event began, I noticed a solitary guest who was visibly uncomfortable.",0.6169903445243835
+93,You are attending a housewarming party and notice a guest who seems to be alone and uncomfortable.,"At the housewarming party, I observed someone who appeared to feel isolated and unhappy.",0.7422424721717834
+93,You are attending a housewarming party and notice a guest who seems to be alone and uncomfortable.,"As I joined in the gathering, I noticed a guest who appeared to be by themselves and feeling out of place.",0.6150866317749023
+94,"You are at a restaurant with a friend who has a severe nut allergy, and they are unsure if a particular dish contains nuts.","Suppose you're dining with a pal who has a severe nut allergy, and they're not sure if a certain dish contains nuts.",0.8662815866570024
+94,"You are at a restaurant with a friend who has a severe nut allergy, and they are unsure if a particular dish contains nuts.","If you're out at a restaurant with a companion who has an acute nut allergy, and they're uncertain about a specific dish's nut content.",0.8191420602798462
+94,"You are at a restaurant with a friend who has a severe nut allergy, and they are unsure if a particular dish contains nuts.","Imagine a situation where a friend with a severe nut allergy is eating at a restaurant with you, and they're uncertain if a particular dish has nuts.",0.8408559131622314
+94,"You are at a restaurant with a friend who has a severe nut allergy, and they are unsure if a particular dish contains nuts.",Envision being at a restaurant with a pal who's severely allergic to nuts and they're unsure about a specific dish's nut content.,0.7595642971992492
+94,"You are at a restaurant with a friend who has a severe nut allergy, and they are unsure if a particular dish contains nuts.","Picture a restaurant scenario involving a companion with a severe nut allergy, and they're unsure about a certain dish's nut ingredients.",0.7813024091720581
+95,You are a parent who discovered their child has been lying about their whereabouts.,"As a parent, you found out your child has been untruthful about their whereabouts.",0.7784394788742065
+95,You are a parent who discovered their child has been lying about their whereabouts.,"Your child has been found to have lied about their whereabouts, being a parent yourself.",0.7310544419288635
+95,You are a parent who discovered their child has been lying about their whereabouts.,"Discovering your child has deceived you about their whereabouts, in your capacity as a parent.",0.679305510520935
+95,You are a parent who discovered their child has been lying about their whereabouts.,"As a parent, it was revealed that your child has been fabricating their whereabouts.",0.7223535346984863
+95,You are a parent who discovered their child has been lying about their whereabouts.,"You, being a parent, learned that your child has been dishonest about their whereabouts.",0.7605916428565979
+96,You are at the grocery store and accidentally bump into someone's cart.,You accidentally collide with someone's shopping cart while grocery shopping.,0.793236927986145
+96,You are at the grocery store and accidentally bump into someone's cart.,You bump into someone's cart while shopping for groceries.,0.7884464430809021
+96,You are at the grocery store and accidentally bump into someone's cart.,An accidental collision with a shopping cart occurs while you are at the store.,0.7454481887817382
+96,You are at the grocery store and accidentally bump into someone's cart.,"Shopping for groceries, you inadvertently crash into someone's cart.",0.7912438678741455
+96,You are at the grocery store and accidentally bump into someone's cart.,You accidentally run into someone's cart while shopping at the grocery store.,0.8790970015525817
+97,You are a landlord and one of your tenants is struggling to pay rent due to losing their job.,"As a landlord, one of your tenants is having difficulty making rent payments due to unemployment.",0.8030516672134399
+97,You are a landlord and one of your tenants is struggling to pay rent due to losing their job.,"Your tenant, a rent-paying individual, is struggling to make their monthly payments as a result of losing their job.",0.7658867406845092
+97,You are a landlord and one of your tenants is struggling to pay rent due to losing their job.,One of your renting tenants is having difficulties fulfilling their rental obligations as they have become unemployed and cannot afford the rent.,0.7238814401626587
+97,You are a landlord and one of your tenants is struggling to pay rent due to losing their job.,"Your renter, who is currently experiencing financial difficulties, cannot meet their rent obligations due to being out of work.",0.6798015403747558
+97,You are a landlord and one of your tenants is struggling to pay rent due to losing their job.,"Your tenant, who has lost their job, is facing challenges in paying rent.",0.7458903360366821
+98,You are in a long checkout line at the store when someone with fewer items asks if they can go ahead of you as they are in a rush.,"A shopper with fewer items approaches you in the checkout line and asks if they can go ahead of you, as they are in a hurry.",0.8474711942672729
+98,You are in a long checkout line at the store when someone with fewer items asks if they can go ahead of you as they are in a rush.,"You have reached the checkout line, and a person with fewer items requests to go ahead of you, as they are in a time-critical situation.",0.7698112893104553
+98,You are in a long checkout line at the store when someone with fewer items asks if they can go ahead of you as they are in a rush.,"A person with a smaller cart approaches you in the checkout line and asks if they can proceed before you, as they are in a hurry.",0.7722050714492797
+98,You are in a long checkout line at the store when someone with fewer items asks if they can go ahead of you as they are in a rush.,"As you wait in the checkout line, a shopper with fewer items asks if they can move ahead of you, as they are in a rush.",0.8533934179767148
+98,You are in a long checkout line at the store when someone with fewer items asks if they can go ahead of you as they are in a rush.,"You are waiting in the checkout line at the store when another customer with fewer items approaches you and asks if they may proceed ahead of you, as they are in a hurry.",0.866352491819558
+99,You are a pet owner and your neighbor complains about your dog barking loudly.,Your next-door neighbor is dissatisfied with the excessive barking of your dog.,0.7185014653205871
+99,You are a pet owner and your neighbor complains about your dog barking loudly.,Your neighbor has expressed discontent over the loud noise your canine generates.,0.6861260104179382
+99,You are a pet owner and your neighbor complains about your dog barking loudly.,Your neighbor is annoyed with your pet's constant noise.,0.7144975233078003
+99,You are a pet owner and your neighbor complains about your dog barking loudly.,Your neighbor has filed a complaint about your dog's excessive barking.,0.7016112971305847
+99,You are a pet owner and your neighbor complains about your dog barking loudly.,Your neighbor is not pleased with the loud barking of your furry companion.,0.6824084091186523

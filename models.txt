@@ -1,0 +1,10 @@
+meta-llama/Llama-2-7b-chat-hf
+meta-llama/Llama-2-13b-chat-hf
+tiiuae/falcon-7b-instruct
+lmsys/vicuna-7b-v1.5
+mosaicml/mpt-7b-chat
+mistralai/Mistral-7B-Instruct-v0.1
+mosaicml/mpt-30b-chat
+alexl83/LLaMA-33B-HF
+tiiuae/falcon-40b-instruct
+
