@@ -1,4 +1,4 @@
-# SaGE - Semantic Graph Entropy
+# [<img src="sage.png" width="25"/>](logo.png) SaGE - Semantic Graph Entropy
 
 # Pipeline
 
